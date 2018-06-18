@@ -10,6 +10,7 @@ author: zenez.org
 Github에 블러그를 설치했는데 마크다운 문법도 새로 배워야 하네요. 호랑이 담배피던 시절에 이런것이 있구나 하고 관심도 안가진 것인데 2018년에 마크다운 문법을 새로 찾아 보다니 기분이 이상합니다. 깃섬에 접속해 있으면 복고풍으로 회귀한 은하영웅전설의 제국과 같은 느낌이 듭니다.
 
 #### 문자 크기
+<<<<<<< HEAD
 Header1 : \# 1개 
 Header6 : \# 6개 
 Header1~6까지 \# 숫자로 변경합니다.
@@ -19,6 +20,16 @@ Header1~6까지 \# 숫자로 변경합니다.
 
 강조 : \* text \* 		문자 양옆  \* 1개 
 
+=======
+Header1 : \# 1개
+Header6 : \# 6개
+Header1~6까지 \# 숫자로 변경합니다.
+
+#### 문자 모양
+굵게 : \*\*text\*\* 	문자 양옆  \* 2개
+강조 : \*text\* 		문자 양옆  \* 1개
+
+>>>>>>> 7e74065ec1b013f5ed527cbd56367176a3e1e9d2
 #### Visual Studio Code로 편집중인데 은근 힘듭니다.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
